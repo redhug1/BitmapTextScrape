@@ -1,5 +1,7 @@
 # BitmapTextScrape
 
+## Convert Bitmaps to Text from scroll window that does not provide cut and paste
+
 Built with Go 1.13.4, Python 3.6+
 
 ## How this came about
