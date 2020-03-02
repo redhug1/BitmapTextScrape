@@ -1,0 +1,6 @@
+Before using this script to demonstrate borderline case Page Down problem problem ...
+
+make sure that stage 4's config.json file has line set as follows:
+
+"CheckLastButOnePage": 0,
+

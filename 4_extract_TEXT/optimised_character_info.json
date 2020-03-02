@@ -1,0 +1,146 @@
+[
+    {
+        "Character": "^",
+        "Width": 1,
+        "Height": 13,
+        "XOffset": 12,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "|",
+        "Width": 2,
+        "Height": 13,
+        "XOffset": 250,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "%",
+        "Width": 15,
+        "Height": 13,
+        "XOffset": 210,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "+",
+        "Width": 10,
+        "Height": 13,
+        "XOffset": 238,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": ",",
+        "Width": 4,
+        "Height": 13,
+        "XOffset": 173,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "-",
+        "Width": 8,
+        "Height": 13,
+        "XOffset": 196,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": ".",
+        "Width": 4,
+        "Height": 13,
+        "XOffset": 185,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "0",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 0,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "1",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 17,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "2",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 32,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "3",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 48,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "4",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 63,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "5",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 80,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "6",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 96,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "7",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 112,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "8",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 128,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": "9",
+        "Width": 12,
+        "Height": 13,
+        "XOffset": 144,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    },
+    {
+        "Character": ":",
+        "Width": 5,
+        "Height": 13,
+        "XOffset": 161,
+        "YOffset": 2,
+        "FileName": "new_font_18.png"
+    }
+]

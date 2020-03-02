@@ -1,0 +1,164 @@
+[
+    {
+        "Character": "^",
+        "Width": 1,
+        "Height": 18,
+        "XOffset": 12,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "blank.png"
+    },
+    {
+        "Character": "|",
+        "Width": 2,
+        "Height": 18,
+        "XOffset": 250,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "verticaldivider.png"
+    },
+    {
+        "Character": "%",
+        "Width": 15,
+        "Height": 18,
+        "XOffset": 210,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "percentB.png"
+    },
+    {
+        "Character": "+",
+        "Width": 10,
+        "Height": 18,
+        "XOffset": 238,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "plusB.png"
+    },
+    {
+        "Character": ",",
+        "Width": 4,
+        "Height": 18,
+        "XOffset": 173,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "commaB.png"
+    },
+    {
+        "Character": "-",
+        "Width": 8,
+        "Height": 18,
+        "XOffset": 196,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "minusB.png"
+    },
+    {
+        "Character": ".",
+        "Width": 4,
+        "Height": 18,
+        "XOffset": 185,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "dotB.png"
+    },
+    {
+        "Character": "0",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 0,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "0B.png"
+    },
+    {
+        "Character": "1",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 17,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "1B.png"
+    },
+    {
+        "Character": "2",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 32,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "2B.png"
+    },
+    {
+        "Character": "3",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 48,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "3B.png"
+    },
+    {
+        "Character": "4",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 63,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "4B.png"
+    },
+    {
+        "Character": "5",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 80,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "5B.png"
+    },
+    {
+        "Character": "6",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 96,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "6B.png"
+    },
+    {
+        "Character": "7",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 112,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "7B.png"
+    },
+    {
+        "Character": "8",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 128,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "8B.png"
+    },
+    {
+        "Character": "9",
+        "Width": 12,
+        "Height": 18,
+        "XOffset": 144,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "9B.png"
+    },
+    {
+        "Character": ":",
+        "Width": 5,
+        "Height": 18,
+        "XOffset": 161,
+        "YOffset": 0,
+        "SourceFileName": "new_font_18.png",
+        "FontFileName": "colonB.png"
+    }
+]

@@ -1,0 +1,34 @@
+1. The font that is being grabed, its characters can not overlap any of their pixels into anothers bounding box.
+
+2. Xoffset for font in .json file MUST start at first vertical column of character that has a non background coloured pixel in it.
+
+3. At the end of 4_extract_Text, it the flag 'gatherCharacterCounts' has been set 'true' it will print out a New ordered list
+   of a 'search' priority order for the found characters. This list might be missing some of the characters in the original
+   font list ... so if you are going to create a new priority list in the variable 'extractionList', make sure it includes
+   all of the original characters.
+
+4. In the font's, the character '^' is used to signify a blank vertical column of pixels and can therefore not be in your font set.
+   If you need it in your font set, you will have to replace the '^' in the font sets and where it is looked for in the code with your
+   alternative.
+
+5. Image manipulation commands of use:
+
+	a) To create a smaller .bmp from a 32x32 pixel on down to 10x18
+
+		convert -resize 10x18! some_image.bmp font_block_10x18.bmp
+
+	b) To edit the pixels in this and retain the Alpha channel
+
+		use Gimp to edit, then to save as original .bmp format ... the edited image has to be 'exported'.
+
+	c) Having done a screen grab of whole screen with source window, to cut the window out
+		of .png image called w2.png, do:
+
+		convert w2.png -gravity North -chop 0x13 w3.png
+
+		convert w3.png -gravity West -chop 10x0 w4.png
+
+		convert w4.png -gravity East -chop 1400x0 w5.png
+
+		convert w5.png -gravity South -chop 0x165 w6.png
+
