@@ -79,7 +79,7 @@ For different sizes of mock data, timings on the development machine are:
 * 42,761 lines (852 pages of 50 lines, then single scrolls) in 4 minutes and 54 seconds.
 * 213,805 lines (4257 pages of 50 lines, then single scrolls) in 26 minutes and 47 seconds
 
-The timings do not scal linearly because as the number of lines grows, the last mouse click actioned PageDown ends up with more and more single line scroll's left to do which from testing needed a bit longer to determine that the scroll had finished (don't know why, thats just the way i got it to work reliably).
+The timings do not scale linearly because as the number of lines grows, the last mouse click actioned PageDown ends up with more and more single line scroll's left to do which from testing needed a bit longer to determine that the scroll had finished (don't know why, thats just the way i got it to work reliably).
 
 ### Licence
 
