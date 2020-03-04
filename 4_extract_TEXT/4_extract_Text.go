@@ -789,7 +789,12 @@ func main() {
 	flag.Parse()
 	config, _ := getConfig(*configPath)
 
-	var concurrent = runtime.NumCPU() - 2 // leave a few CPU threads free for the 'scroll_mock'
+	var concurrent = runtime.NumCPU()
+	if concurrent >= 8 {
+		concurrent -= 2 // leave a few CPU threads free to 'scroll_mock' for optimal performance
+	} else if concurrent >= 4 {
+		concurrent -= 1
+	}
 	var semaphoreChan = make(chan struct{}, concurrent)
 
 	signalsChan := make(chan os.Signal, 1)
