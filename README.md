@@ -1,4 +1,5 @@
 # BitmapTextScrape
+[![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](LICENSE)
 
 ## Convert Bitmaps to Text from scroll window that does not provide cut and paste
 
@@ -28,31 +29,32 @@ Clone this repository into a suitable folder. Whilst trying to get the various s
 
 ## Files you may need to install
 Installing libraries for using ‘robotgo’ for ui automation:
+```
+sudo apt-get install gcc libc6-dev
+sudo apt-get install libx11-dev xorg-dev libxtst-dev libpng++-dev
+sudo apt-get install xcb libxcb-xkb-dev x11-xkb-utils libx11-xcb-dev libxkbcommon-x11-dev
 
-	sudo apt-get install gcc libc6-dev
-	sudo apt-get install libx11-dev xorg-dev libxtst-dev libpng++-dev
-	sudo apt-get install xcb libxcb-xkb-dev x11-xkb-utils libx11-xcb-dev libxkbcommon-x11-dev
-
-	sudo apt-get install libxkbcommon-dev
-	sudo apt-get install xsel xclip
-
+sudo apt-get install libxkbcommon-dev
+sudo apt-get install xsel xclip
+```
 Then, the go library:
-
-	go get github.com/go-vgo/robotgo
-
+```
+go get github.com/go-vgo/robotgo
+```
 go: SDL graphics lib
+```
+go get github.com/veandco/go-sdl2/sdl
 
-	go get github.com/veandco/go-sdl2/sdl
+sudo apt-get install libsdl-image1.2-dev
 
-    sudo apt-get install libsdl-image1.2-dev
+sudo apt install apt-file
 
-    sudo apt install apt-file
-
-    sudo apt install libsdl2-image-dev
-
+sudo apt install libsdl2-image-dev
+```
 go: X Go Binding
-
-    go get github.com/robotn/xgb
+```
+go get github.com/robotn/xgb
+```
 
 ## Making adjustments
 There are abundant comments in the source files to assist modification to your specific requirements.
